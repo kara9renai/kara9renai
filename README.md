@@ -1,5 +1,5 @@
 ### Hi there 👋
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kara9renai&count_private=true)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kara9renai&count_private=true&theme=dark)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kara9renai)
 <!--
 **kara9renai/kara9renai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
