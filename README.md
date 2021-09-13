@@ -1,4 +1,3 @@
-### Hi there 👋
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kara9renai&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kara9renai)
 <!--
